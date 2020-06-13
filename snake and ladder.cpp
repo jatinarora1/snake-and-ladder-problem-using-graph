@@ -21,7 +21,7 @@ public:
         }
     }
     void print()
-    {
+    {   
         for(auto obj:AdjList)
         {
             cout<<obj.first<<"->";
